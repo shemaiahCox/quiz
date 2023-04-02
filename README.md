@@ -32,6 +32,7 @@ As a user I should be able to;
 ## Todo
 
 - Add state that shows the answers
+- Disable next button if no answer is selected
 
 ## Available Scripts
 
